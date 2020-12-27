@@ -1,0 +1,21 @@
+% shell, console, cli, movements, cursor, text
+
+# Insert last command
+
+<alt>.
+
+# Return to previous cd's dir 
+
+<alt>b
+
+# Move cursor forward one word
+
+<alt>f
+
+# Move cursor back one word
+
+<alt><backspace>
+
+# cd into target of last command
+
+<alt>d
