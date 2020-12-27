@@ -1,0 +1,25 @@
+% selectors, text, vi, vim, neovim
+
+# Select word
+
+aw
+
+# Select sentence
+
+as
+
+# Select a paragraph
+
+ap
+
+# Select a <> block
+
+a<
+
+# Select a single-quoted string
+
+a'
+
+# Select a double-quoted string
+
+a"

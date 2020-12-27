@@ -1,0 +1,45 @@
+% visual, visual-mode, neovim, vim, vi
+
+# Extend highlighted area with a () block
+
+ab
+
+# Extend highlighted area with a paragraph
+
+ap
+
+# Extend highlighted area with a sentence
+
+as
+
+# Extend highlighted area with a tag block
+
+at
+
+# Extend highlighted area with 'a word'
+
+aw
+
+# Format the highlighted lines
+
+gq
+
+# Extend highlighted area with inner () block
+
+ib
+
+# Extend highlighted area with inner paragraph
+
+ip
+
+# Extend highlighted area with inner sentence
+
+is
+
+# Extend highlighted area with inner tag block
+
+it
+
+# Extend highlighted area with 'inner word'
+
+iw
