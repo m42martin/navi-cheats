@@ -1,0 +1,10 @@
+% vim-easymotion, easymotion, plugins, neovim, vim, vi
+
+# Trigger word motion
+
+<leader><leader>w
+
+# Trigger word motion and search for a specific letter
+
+<leader><leader>f<letter>	uses the 'f' motion
+
