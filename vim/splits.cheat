@@ -1,4 +1,3 @@
-% splits, workspace, buffers, window, neovim, vim, vi
 
 # Open new horizontal split
 
@@ -14,19 +13,19 @@
 
 # Resize current horizontal split
 
-:resize 33 OR :res 33
+:resize <num> OR :res <num>
 
 # Resize current horizontal split by a relative amount
 
-:res +10 OR :res -5
+:res +<num> OR :res -<num> (num can be + or -)
 
 # Resize current vertical split
 
-:vertical resize 33 OR :vertical res 33
+:vertical resize <num> OR :vertical res <num>
 
 # Resize current vertical split by a relative amount
 
-:vertical res +10 OR :vertical res -5
+:vertical res +<num> OR :vertical res -<num>
 
 # Resize current horizontal split by one line
 

@@ -2,25 +2,28 @@
 
 # Move cursor forward to the end of word
 
-e or <num>e
+e OR <num>e
 
 # Move cursor to Nth occurrence of {char} 
 
-f<char> or <num>f<char>
+f<char> OR <num>f<char>
 
 # Move cursor before Nth occurrence of {char} to the right
 
-t<char>
+t<char> OR <num>f<char>
 
 # Move cursor N paragraphs backward
 
 { OR <num>{
 
-# Move cursor to column N
-
-| OR <num>|
-
 # Move cursor N Paragraphs forward
 
 } OR <num>}
 
+# Move cursor to column first column on the current line
+
+| OR ^
+
+# Move cursor to column Nth column on the current line
+
+<num>|

@@ -2,11 +2,11 @@
 
 # Begin selection. repeat to add
 
-<Ctrl>-n
+<ctrl>n
 
 # Create cursors
 
-<Ctrl>-Up OR <Ctrl>-Down
+<ctrl>Up OR <ctrl>Down
 
 # Jump to next/previous occurrence
 

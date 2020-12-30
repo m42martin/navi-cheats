@@ -4,7 +4,19 @@
 
 <leader><leader>w
 
-# Trigger word motion and search for a specific letter
+# Move cursor to one space before the specific letter
 
-<leader><leader>f<letter>	uses the 'f' motion
+<leader><leader>t<char>
+
+# Move cursor to one space after the specific letter (backwards)
+
+<leader><leader>T<char>
+
+# word motion and search for a specific letter
+
+<leader><leader>f<char>	uses the 'f' motion
+
+# word motion and search for a specific letter (backwards)
+
+<leader><leader>F<char>	uses the 'F' motion
 
